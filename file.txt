@@ -4,3 +4,4 @@ add info from new branch "devel"
 
 second record from devel
 
+record trom testr
