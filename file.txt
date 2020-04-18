@@ -1,1 +1,7 @@
 Some information that will be modified and not only!
+
+add info from new branch "devel"
+
+second record from devel
+
+record trom testr
